@@ -1,0 +1,53 @@
+h1{
+    color:blueviolet;
+    background-color:dodgerblue;
+    margin:20px;
+    text-transform:uppercase;
+}
+p,td{
+    color:navy;
+    background-color:deeppink;
+    font-size: 12px;
+    margin-left:10px;
+}
+
+*{
+    font-family:sans-serif;
+
+
+}
+h4{
+    background-color:brown;
+    color:firebrick;
+    margin:20px;
+    padding:16px;
+
+}
+td > strong{
+
+    color:aquamarine;
+}
+#intro{
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
+.spotlight{
+    background-color:darkcyan;
+
+}
+
+a:link{
+
+    color:blue;
+
+
+}
+a:visited{
+    color:green;
+
+}
+a:hover{
+    background-color:purple;
+}
